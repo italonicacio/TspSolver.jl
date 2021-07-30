@@ -1,0 +1,4 @@
+name = "TspSolver"
+uuid = "2a60bbfc-998a-4344-ab54-4109965ef47a"
+authors = ["italonicacio <italonicacio@gmail.com>"]
+version = "0.1.0"
